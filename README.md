@@ -42,7 +42,7 @@
 			</p>
 
 			<p>
-				Aleks is an entrepreneurial-spirited multipotentialite. When he is not Netflix-binging, he is either blogging, reading, working on business minutiae, or working out in the gym.
+				Aleks is an entrepreneurial-spirited multipotentialite that loves to learn. When he is not Netflix-binging, he is either blogging, reading, working on business minutiae, or working out in the gym.
 			</p>
 
 			<br />
